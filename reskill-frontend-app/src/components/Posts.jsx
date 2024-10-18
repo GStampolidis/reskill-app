@@ -16,7 +16,7 @@ function Posts({ posts }) {
               >
                 <img
                   className=" aspect-square rounded-lg "
-                  src={item.url}
+                  src={"https://placehold.co/400"} // item.url but the placeholder site doesnt work.
                   alt={item.title}
                 />
                 <div className="flex flex-col justify-between flex-grow pt-6 h-full">

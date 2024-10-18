@@ -1,5 +1,5 @@
 const ContactMePage = () => {
-  const fakeEmail = "fake@posts-site.com"; 
+  const fakeEmail = "fake@email.com"; 
 
   return (
     <div
